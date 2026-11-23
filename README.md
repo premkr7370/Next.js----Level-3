@@ -1,4 +1,4 @@
-# Ultimate Next.js Course - Level 3
+# Ultimate Next.js - Level 3
 
 A beginner-friendly Next.js App Router project used to practice routing,
 navigation, layouts, fonts, images, and basic client-side interactivity.
